@@ -18,6 +18,8 @@ Hi! I'm Olga and I want to become Front-end-Developer. I have an economic educat
 * JS
 
 * GIT
+
+* React basic
 **Code**
 <script>
     //8kuy kata
@@ -34,6 +36,11 @@ Hi! I'm Olga and I want to become Front-end-Developer. I have an economic educat
      return number * 9;
    }
 }
+//Determine the total number of digits in the integer (n>=0) given as input to the function. For example, 9 is a single digit, 66 has 2 digits and 128685 has 6 digits. Be careful to avoid overflows/underflows. All inputs will be valid.
+function digits(n) {
+  return String(n).length
+}
+
 </script>
 
 **Work experience:**

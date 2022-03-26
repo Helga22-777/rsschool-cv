@@ -20,8 +20,10 @@ Hi! I'm Olga and I want to become Front-end-Developer. I have an economic educat
 * GIT
 
 * React basic
+
 **Code**
-<script>
+
+```
     //8kuy kata
     //Return the type of the sum of the two arguments
     function typeOfSum(a, b) {
@@ -41,7 +43,8 @@ function digits(n) {
   return String(n).length
 }
 
-</script>
+```
+
 
 **Work experience:**
 

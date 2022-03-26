@@ -7,6 +7,7 @@
 * **Tel:** +380509474815
 * **[GitHube](https://github.com/Helga22-777)**
 ****
+
 **About myself**
 
 Hi! I'm Olga and I want to become Front-end-Developer. I have an economic education, but I do not like to work in my specialty. I hope everything will work out for me and I will get a job that I enjoy.
